@@ -1,8 +1,6 @@
 # project-Ai
 Implementing a game using min-max algorithm using Ai
 
-#Faten Sultan
-#Mohammmed Abu Shahms
 import tkinter as tk
 from tkinter import messagebox
 
